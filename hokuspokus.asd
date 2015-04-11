@@ -35,7 +35,7 @@
     :author "Mark Pflueger <mark@pfluegerworld.de>"
     :licence "GNU General Public License"
     :components ((:doc-file "README.md")
-		 (:doc-file "COPYING")
+		 (:doc-file "LICENSE")
 		 (:file "packages")
 		 (:file "utils" :depends-on ("packages"))
 		 (:file "term-simplifier" :depends-on ("packages"))
