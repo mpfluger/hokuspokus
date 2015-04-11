@@ -1,6 +1,6 @@
 ## Hokuspokus
 
-Feature transformation for supervised machine learning.
+Feature transformation for [supervised learning](http://en.wikipedia.org/wiki/Supervised_learning) using equation discovery.
 
 For motivation, background and results see `thesis.pdf`.
 
