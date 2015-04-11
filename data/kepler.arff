@@ -1,0 +1,17 @@
+@relation 'Keplers Third Law'
+
+@attribute r numeric
+@attribute T numeric
+@attribute third_law numeric
+
+@data
+
+57.9,0.241,3.34
+108.2,0.615,3.35
+149.6,1.0,3.35
+227.9,1.88,3.35
+778.3,11.86,3.35
+1427,29.5,3.34
+2870,84.0,3.35
+4497,165.0,3.34
+5900,248.0,3.33
