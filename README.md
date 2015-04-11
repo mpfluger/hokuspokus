@@ -31,7 +31,7 @@ sbcl
 (asdf:load-system :hokuspokus)
 ```
 
-Example run using the `data/kepler` dataset:
+Example run using the [kepler](data/kepler.arff)` dataset:
 
 ```lisp
 (hokuspokus:with
@@ -50,7 +50,7 @@ hokuspokus::*feature-space*
 
 One of the resulting formulas can be simplified to Kepler's third law.
 
-Kepler's Third Law: r^3/T^2
+Kepler's Third Law: `r^3/T^2`
 
 Matching formula:
 
