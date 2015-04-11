@@ -2,7 +2,7 @@
 
 Feature transformation for [supervised learning](http://en.wikipedia.org/wiki/Supervised_learning) using equation discovery.
 
-For motivation, background and results see `thesis.pdf`.
+For motivation, background and results see `2006_FeatureSpaceTransformation.pdf` or the longer `thesis.pdf`.
 
 ## Setup
 
