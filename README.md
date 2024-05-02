@@ -62,7 +62,7 @@ Reduces to:
 
 ## Weka integration
 
-Data files are read and written in the [Weka](http://www.cs.waikato.ac.nz/ml/weka/) [ARFF](https://weka.wikispaces.com/ARFF) format.
+Data files are read and written in the [Weka](https://ml.cms.waikato.ac.nz/weka/) [ARFF](https://waikato.github.io/weka-wiki/formats_and_processing/arff/) format.
 
 To write the results of a run back to an ARFF file:
 
